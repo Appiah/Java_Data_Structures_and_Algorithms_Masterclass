@@ -8,7 +8,7 @@ public class FactorialOfN {
 
     public static void main (String [] args){
 
-        BigDecimal n = new BigDecimal(1.1);
+        BigDecimal n = new BigDecimal(1.0001);
 
         System.out.println(n+" ! = "+FactorialSimpleRecursion.factorialOfN(n));
 
