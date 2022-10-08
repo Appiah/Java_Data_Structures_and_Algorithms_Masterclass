@@ -6,8 +6,6 @@ public class FactorialSimpleRecursion {
 
     public static void main (String [] args){
 
-
-
     }
 
     //BigDecimal quick comparison guide : -1 < 0 < 1 -> less than, equal to, greater than

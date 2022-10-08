@@ -6,8 +6,8 @@ public class PowerOfNumberToNumber {
 
     public static void main (String [] args){
 
-        BigDecimal coefficient = new BigDecimal(404);
-        int exponent = 8;
+        BigDecimal coefficient = new BigDecimal(10);
+        int exponent = 10;
 
         System.out.println(coefficient+" ˆ "+exponent+" = "
                 +powerOfNumberToNumber(coefficient, exponent));
