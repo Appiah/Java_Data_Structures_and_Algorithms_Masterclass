@@ -1,6 +1,6 @@
 package datastructures.List;
 
-import Utilities.Util;
+import datastructures.Utilities.Util;
 
 import java.util.LinkedList;
 
