@@ -4,7 +4,7 @@ public class PowerOfTwo {
 
     public static void main (String [] args){
 
-        int n = 200;
+        int n = 10000;
 
         long recursive_start_l = System.nanoTime();
         System.out.println("Recursively finding two to "+n+" th power = "+PowerOfTwoRecursive.powerOfTwo(n));

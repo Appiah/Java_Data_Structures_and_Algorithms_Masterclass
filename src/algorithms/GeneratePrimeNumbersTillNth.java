@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 public class GeneratePrimeNumbersTillNth {
 
     public static void main(String[] args) {
-        int till_n = 1009;
+        int till_n = 1000000000;
 
         long primeNumsSet_start_time = System.nanoTime();
 
