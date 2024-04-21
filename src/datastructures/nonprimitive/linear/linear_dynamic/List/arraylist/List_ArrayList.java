@@ -1,4 +1,4 @@
-package datastructures.nonprimitive.linear.linear_dynamic.List;
+package datastructures.nonprimitive.linear.linear_dynamic.List.arraylist;
 
 import datastructures.Utilities.Util;
 

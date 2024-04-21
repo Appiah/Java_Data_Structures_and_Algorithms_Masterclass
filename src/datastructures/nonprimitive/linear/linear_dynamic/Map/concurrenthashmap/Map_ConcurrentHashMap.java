@@ -1,4 +1,4 @@
-package datastructures.nonprimitive.linear.linear_dynamic.Map;
+package datastructures.nonprimitive.linear.linear_dynamic.Map.concurrenthashmap;
 
 public class Map_ConcurrentHashMap {
     //Get : 1

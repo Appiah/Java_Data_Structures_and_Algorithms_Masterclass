@@ -1,11 +1,9 @@
-package datastructures.nonprimitive.linear.linear_dynamic.Queue;
+package datastructures.nonprimitive.linear.linear_dynamic.Map.linkedhashmap;
 
-public class Queue_DelayQueue {//Priority Heap
-    //Offer : Ln
-    //Peak : 1
-    //Poll : Ln
-    //Remove : n
-    //Size : 1
+public class Map_LinkedHashMap {
+    //Get : 1
+    //ContainsKey : 1
+    //Next : 1
     private final static String DATA_STRUCTURE_NAME = "";
 
     public static void main(String [] args) {

@@ -1,11 +1,11 @@
-package datastructures.nonprimitive.linear.linear_dynamic.Queue;
+package datastructures.nonprimitive.linear.linear_dynamic.Queue.delayqueue;
 
-public class Queue_ConcurrentLinkedQueue {//LinkedList
-    //Offer : 1
+public class Queue_DelayQueue {//Priority Heap
+    //Offer : Ln
     //Peak : 1
-    //Poll : 1
+    //Poll : Ln
     //Remove : n
-    //Size : n
+    //Size : 1
     private final static String DATA_STRUCTURE_NAME = "";
 
     public static void main(String [] args) {

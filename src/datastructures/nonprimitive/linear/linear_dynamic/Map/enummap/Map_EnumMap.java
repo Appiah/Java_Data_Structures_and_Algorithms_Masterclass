@@ -1,6 +1,6 @@
-package datastructures.nonprimitive.linear.linear_dynamic.Map;
+package datastructures.nonprimitive.linear.linear_dynamic.Map.enummap;
 
-public class Map_LinkedHashMap {
+public class Map_EnumMap {
     //Get : 1
     //ContainsKey : 1
     //Next : 1
@@ -12,4 +12,5 @@ public class Map_LinkedHashMap {
         System.out.print(DATA_STRUCTURE_NAME);
 
     }
+
 }

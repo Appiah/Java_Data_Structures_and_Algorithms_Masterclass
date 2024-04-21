@@ -1,4 +1,4 @@
-package datastructures.nonprimitive.linear.linear_dynamic.Map;
+package datastructures.nonprimitive.linear.linear_dynamic.Map.hashmap;
 
 import java.util.HashMap;
 import java.util.Map;

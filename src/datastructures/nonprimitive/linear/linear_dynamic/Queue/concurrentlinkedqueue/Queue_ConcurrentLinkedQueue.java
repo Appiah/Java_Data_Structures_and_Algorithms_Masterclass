@@ -1,10 +1,11 @@
-package datastructures.nonprimitive.linear.linear_dynamic.Map;
+package datastructures.nonprimitive.linear.linear_dynamic.Queue.concurrentlinkedqueue;
 
-public class Map_ConcurrentSkipListMap {
-    //Get : Ln
-    //ContainsKey : Ln
-    //Next : 1
-
+public class Queue_ConcurrentLinkedQueue {//LinkedList
+    //Offer : 1
+    //Peak : 1
+    //Poll : 1
+    //Remove : n
+    //Size : n
     private final static String DATA_STRUCTURE_NAME = "";
 
     public static void main(String [] args) {
@@ -13,5 +14,4 @@ public class Map_ConcurrentSkipListMap {
         System.out.print(DATA_STRUCTURE_NAME);
 
     }
-
 }

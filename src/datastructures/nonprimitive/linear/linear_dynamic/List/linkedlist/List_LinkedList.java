@@ -1,4 +1,4 @@
-package datastructures.nonprimitive.linear.linear_dynamic.List;
+package datastructures.nonprimitive.linear.linear_dynamic.List.linkedlist;
 
 import datastructures.Utilities.Util;
 

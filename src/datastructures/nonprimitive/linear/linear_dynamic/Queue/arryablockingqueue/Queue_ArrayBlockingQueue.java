@@ -1,4 +1,4 @@
-package datastructures.nonprimitive.linear.linear_dynamic.Queue;
+package datastructures.nonprimitive.linear.linear_dynamic.Queue.arryablockingqueue;
 
 public class Queue_ArrayBlockingQueue {//Array
     //Offer : 1

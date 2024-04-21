@@ -1,9 +1,10 @@
-package datastructures.nonprimitive.linear.linear_dynamic.Map;
+package datastructures.nonprimitive.linear.linear_dynamic.Map.concurrentskiplistmap;
 
-public class Map_IdentityHashMap {
-    //Get : 1
-    //ContainsKey : 1
-    //Next : h/n
+public class Map_ConcurrentSkipListMap {
+    //Get : Ln
+    //ContainsKey : Ln
+    //Next : 1
+
     private final static String DATA_STRUCTURE_NAME = "";
 
     public static void main(String [] args) {
@@ -12,4 +13,5 @@ public class Map_IdentityHashMap {
         System.out.print(DATA_STRUCTURE_NAME);
 
     }
+
 }

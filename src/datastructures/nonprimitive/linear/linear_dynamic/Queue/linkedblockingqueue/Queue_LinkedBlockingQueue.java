@@ -1,4 +1,4 @@
-package datastructures.nonprimitive.linear.linear_dynamic.Queue;
+package datastructures.nonprimitive.linear.linear_dynamic.Queue.linkedblockingqueue;
 
 public class Queue_LinkedBlockingQueue {//LinkedList
     //Offer : 1
