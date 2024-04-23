@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.factorial;
 
 import java.math.BigDecimal;
 

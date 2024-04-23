@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.evennumbers;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.primenumbers;
 
 import java.util.List;
 import java.util.stream.Collectors;
